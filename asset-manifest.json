@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Maiato99/weather-app-test.git/static/css/main.323d7611.css",
+    "main.js": "/Maiato99/weather-app-test.git/static/js/main.eff4f803.js",
+    "static/js/453.f9de0c33.chunk.js": "/Maiato99/weather-app-test.git/static/js/453.f9de0c33.chunk.js",
+    "index.html": "/Maiato99/weather-app-test.git/index.html",
+    "main.323d7611.css.map": "/Maiato99/weather-app-test.git/static/css/main.323d7611.css.map",
+    "main.eff4f803.js.map": "/Maiato99/weather-app-test.git/static/js/main.eff4f803.js.map",
+    "453.f9de0c33.chunk.js.map": "/Maiato99/weather-app-test.git/static/js/453.f9de0c33.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.323d7611.css",
+    "static/js/main.eff4f803.js"
+  ]
+}
