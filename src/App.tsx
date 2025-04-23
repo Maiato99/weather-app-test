@@ -114,7 +114,7 @@ const WeatherApp = () => {
     }),
     onSubmit: async ({ cityName }) => {
       if (!API_TOKEN) {
-        setFetchError("API key is missing. Please check your .env configuration.");
+        setFetchError("API key is missing. Please check your configuration.");
         return;
       }
 
@@ -140,7 +140,7 @@ const WeatherApp = () => {
 
         setFetchError("");
       } catch (apiErr) {
-        setFetchError("Oops! Couldn't retrieve data. Please double-check the city name or try again later.");
+        setFetchError("Oops! Couldn't retrieve data. Please check the city name or try again later.");
       }
     },
   });
